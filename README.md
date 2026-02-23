@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Marcus%20M.&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+TypeScript+Developer;NestJS+%7C+Next.js+%7C+Prisma;Building+with+TDD+%26+Clean+Code;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+TypeScript+Developer;NestJS+%7C+Next.js+%7C+Prisma;Building+with+TDD+%26+Clean+Code;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,16 +22,16 @@
 <div align="center">
 
 ### Languages & Runtimes
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,nodejs)](https://go-skill-icons.vercel.app)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nextjs,react,meteor,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,nextjs,react,meteorjs,flutter)](https://go-skill-icons.vercel.app)
 
 ### Database & ORM
-[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,mongodb,mongoose&theme=dark)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,prisma,mongodb,mongoose)](https://go-skill-icons.vercel.app)
 
 ### Tools & Workflow
-[![My Skills](https://skillicons.dev/icons?i=jest,git,github,docker,vscode,cursor&theme=dark)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,git,github,docker,vscode,cursor)](https://go-skill-icons.vercel.app)
 
 </div>
 
