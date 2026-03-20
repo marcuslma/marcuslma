@@ -28,15 +28,15 @@ I'm an AI enthusiast and actively leverage it to push the bar on performance, co
 
 **Frameworks & Libraries**
 
-[![](https://go-skill-icons.vercel.app/api/icons?i=nestjs,nextjs,react,meteorjs,flutter)](https://go-skill-icons.vercel.app)
+[![](https://go-skill-icons.vercel.app/api/icons?i=nestjs,nextjs,meteorjs,react,flutter)](https://go-skill-icons.vercel.app)
 
 **Database & ORM**
 
-[![](https://go-skill-icons.vercel.app/api/icons?i=postgres,prisma,mongodb,mongoose)](https://go-skill-icons.vercel.app)
+[![](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,mongoose,prisma)](https://go-skill-icons.vercel.app)
 
 **Tools & Workflow**
 
-[![](https://go-skill-icons.vercel.app/api/icons?i=jest,git,github,docker,vscode,cursor)](https://go-skill-icons.vercel.app)
+[![](https://go-skill-icons.vercel.app/api/icons?i=jest,git,github,docker,cursor)](https://go-skill-icons.vercel.app)
 
 ---
 
