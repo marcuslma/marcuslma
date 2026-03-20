@@ -1,10 +1,6 @@
 <div align="center">
 
-# Hello There! 👋
-
-## Marcus M.
-
-**Software Engineer**
+# Hello There! 👋 — I'm Marcus M., Software Engineer
 
 </div>
 
@@ -34,9 +30,13 @@ I'm an AI enthusiast and actively leverage it to push the bar on performance, co
 
 [![](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,mongoose,prisma)](https://go-skill-icons.vercel.app)
 
+**Cloud**
+
+[![](https://go-skill-icons.vercel.app/api/icons?i=aws)](https://go-skill-icons.vercel.app)
+
 **Tools & Workflow**
 
-[![](https://go-skill-icons.vercel.app/api/icons?i=jest,git,github,docker,cursor)](https://go-skill-icons.vercel.app)
+[![](https://go-skill-icons.vercel.app/api/icons?i=jest,git,github,docker,cursor)](https://go-skill-icons.vercel.app) ![TRAE](https://img.shields.io/badge/TRAE-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHJ4PSIzIiBmaWxsPSIjMjIyIi8+PHRleHQgeD0iMiIgeT0iMTIiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIj5UPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
 
 ---
 
