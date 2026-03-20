@@ -1,16 +1,22 @@
 <div align="center">
 
-# Marcus M.
+# Hello There! 👋
 
-**Full-Stack TypeScript Developer**
+## Marcus M.
+
+**Software Engineer**
 
 </div>
 
 ---
 
-Building scalable full-stack applications with **TypeScript**, **NestJS** and **Next.js**.
-Focused on **TDD**, clean architecture and well-tested, maintainable code.
-Experience with REST APIs, Prisma + PostgreSQL, and modern backend patterns.
+I'm a software engineer with a meticulous approach to code — quality and maintainability aren't afterthoughts, they're the baseline.
+I build real-world applications that people actually use, not side projects collecting dust.
+Battle-hardened through chaotic production environments, tight deadlines, and systems that shouldn't have worked — but did.
+I move forward, always.
+
+I'm an AI enthusiast and actively leverage it to push the bar on performance, code quality, and delivery speed.
+**TypeScript**, **NestJS** and **Next.js** are my daily tools — backed by solid testing, clean architecture, and a genuine obsession with getting things right.
 
 ---
 
