@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hello There! 👋 — I'm Marcus M., Software Engineer
+### Hello There! 👋 — I'm Marcus M., Software Engineer
 
 </div>
 
 ---
 
-## Bio
+### Bio
 
 I'm a software engineer with a meticulous approach to code — quality and maintainability aren't afterthoughts, they're the baseline.
 I build real-world applications that people actually use, not side projects collecting dust.
@@ -18,7 +18,7 @@ I'm an AI enthusiast and actively leverage it to push the bar on performance, co
 
 ---
 
-## Stack
+### Stack
 
 **Languages & Runtimes**
 
