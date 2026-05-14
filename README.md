@@ -22,7 +22,7 @@ I'm an AI enthusiast and actively leverage it to push the bar on performance, co
 
 **Languages & Runtimes**
 
-[![](https://go-skill-icons.vercel.app/api/icons?i=ts,js,nodejs)](https://go-skill-icons.vercel.app)
+[![](https://go-skill-icons.vercel.app/api/icons?i=ts,js,nodejs,bun)](https://go-skill-icons.vercel.app)
 
 **Frameworks & Libraries**
 
@@ -30,7 +30,7 @@ I'm an AI enthusiast and actively leverage it to push the bar on performance, co
 
 **Database & ORM**
 
-[![](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,mongoose,prisma)](https://go-skill-icons.vercel.app)
+[![](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,mongoose,prisma,drizzle)](https://go-skill-icons.vercel.app)
 
 **Tools & Workflow**
 
